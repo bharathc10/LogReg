@@ -1,10 +1,10 @@
 # Logistic Regression Model from Scratch
 
-This project is a demonstration of a logistic regression model implemented from scratch in Python. The purpose of this project is to showcase my understanding of logistic regression by creating a simple, custom implementation and applying it to the Diabetes dataset.
+This project demonstrates a logistic regression model implemented from scratch in Python. The purpose of this project is to showcase my understanding of logistic regression by creating a simple, custom implementation and applying it to the Diabetes dataset.
 
 ## Data
 
-The dataset used for this project is the Diabetes dataset from scikit-learn. It contains ten baseline variables such as age, BMI, blood pressure, etc., as well as a target variable indicating the presence of diabetes.
+The dataset used for this project is the Diabetes dataset from Scikit-learn. It contains ten baseline variables such as age, BMI, blood pressure, etc., and a target variable indicating the presence of diabetes.
 
 - Data Source: [Diabetes dataset on scikit-learn](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset)
 
@@ -32,14 +32,11 @@ Model accuracy: 0.766
 
 This project relies on the following Python libraries:
 
-- numpy
+- NumPy
 - matplotlib
 - scikit-learn (for data loading)
-
-You can install these dependencies using the provided [requirements.txt](requirements.txt) file.
 
 ## License
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 Feel free to reach out if you have any questions or suggestions.
